@@ -1,26 +1,63 @@
-# Hi, I'm Abhishek🤔
+# Hi, I'm Abhishek 👋
 
-Blockchain & ML Engineer — building smart contracts, data-driven systems, and production-grade backend tools.
+Backend & Quant-Oriented Engineer focused on high-performance systems, algorithms, and intelligent automation.
 
-## Core Skills
-- Blockchain: Solidity, Smart Contracts, Web3
-- ML/Data: Python, Pandas, NumPy, Scikit-learn
-- Systems: C++, Algorithms, Performance Optimization
-- Tools: Docker, Git, Linux
+I build:
+- Low-latency backend systems
+- ML-driven analytics tools
+- Blockchain infrastructure
+- Competitive programming solutions in C++
 
-## Currently
-- Contributing to open source
-- Building blockchain + ML systems
-- Open to backend / blockchain / ML roles
+---
+
+## Tech Stack
+
+### Languages
+C++, Python, JavaScript, SQL
+
+### Core Areas
+- Data Structures & Algorithms
+- Backend Engineering
+- Quantitative Development
+- Machine Learning
+- System Design
+- Blockchain Infrastructure
+
+### Tools
+Docker, Git, Linux, PostgreSQL, FastAPI
+
+---
+
+## Current Focus
+
+- Solving competitive programming problems daily
+- Building quant + analytics systems
+- Learning low-latency engineering concepts
+- Contributing to real-world backend projects
+
+---
+
+## Featured Interests
+
+- Quant Finance
+- High Performance Computing
+- Trading Infrastructure
+- AI Systems
+- Optimization
+
+---
 
 ## Contact
-Email: Mhaskeabhishek2004@gmail.com  
-LinkedIn: https://www.linkedin.com/in/abhishek-mhaske-379399249/
 
-Portfolio:-https://abhimhaskebtech.vercel.app/
+📧 Email: Mhaskeabhishek2004@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/abhimhaske2004/
+🌐 Portfolio: https://abhimhaskebtech.vercel.app/
 
-<!--
-**Ghostofficial141/Ghostofficial141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+
+## Philosophy
+
+> Build skills so strong that opportunities become inevitable._ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
