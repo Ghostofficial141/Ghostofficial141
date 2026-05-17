@@ -15,7 +15,7 @@ Blockchain & ML Engineer — building smart contracts, data-driven systems, and 
 
 ## Contact
 Email: Mhaskeabhishek2004@gmail.com  
-LinkedIn: https://www.linkedin.com/in/abhishek-mhaske-379399249
+LinkedIn: https://www.linkedin.com/in/abhishek-mhaske-379399249/
 Portfolio:-https://abhimhaskebtech.vercel.app/
 
 <!--
