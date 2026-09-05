@@ -1,19 +1,19 @@
 # Hi, I'm Abhishek 👋
 
-Backend & Quant-Oriented Engineer focused on high-performance systems, algorithms, and intelligent automation.
+I build intelligent systems at the intersection of Engineering, Software & AI — turning complex real-world problems into practical, scalable solutions
 
 I build:
-- Low-latency backend systems
-- ML-driven analytics tools
-- Blockchain infrastructure
-- Competitive programming solutions in C++
+- AI-powered engineering & automation tools
+- 3D model generation systems
+- Backend & data-driven applications
+- Algorithmic & optimization solutions
 
 ---
 
 ## Tech Stack
 
 ### Languages
-C++, Python, JavaScript, SQL
+C++, Python, JavaScript, SQL,c#.net
 
 ### Core Areas
 - Data Structures & Algorithms
@@ -30,10 +30,7 @@ Docker, Git, Linux, PostgreSQL, FastAPI
 
 ## Current Focus
 
-- Solving competitive programming problems daily
-- Building quant + analytics systems
-- Learning low-latency engineering concepts
-- Contributing to real-world backend projects
+Building intelligent tools, solving complex problems with algorithms, and exploring how AI can reshape real-world engineering.
 
 ---
 
@@ -41,9 +38,10 @@ Docker, Git, Linux, PostgreSQL, FastAPI
 
 - Quant Finance
 - High Performance Computing
-- Trading Infrastructure
+- Engineering Infrastructure
 - AI Systems
 - Optimization
+- problem solving
 
 ---
 
